@@ -44,6 +44,7 @@ namespace lab1
 
             reporting.RegisterDeparture(wItem);
             reporting.InventoryReport();
+            
         }
     }
 }

@@ -6,15 +6,12 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary
 {
-    public class Euro : Money
+    public class Euro : Money, ICurrency
     {
+        
         public Euro(int wholePart, int fractionalPart) : base(wholePart, fractionalPart)
         {
-    
-        }
-        public override string ToString()
-        {
-            return $"{WholePart}.{FractionalPart} EUR";
+            CurrencyCode = "EUR";
         }
     }
 }

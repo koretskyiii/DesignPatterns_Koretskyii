@@ -1,8 +1,9 @@
 ﻿
 namespace ClassLibrary
 {
-    public class Money
+    public class Money : ICurrency
     {
+        public string CurrencyCode { get; set; }
         public int WholePart { get; private set; }
         public int FractionalPart { get; private set; }
 
@@ -10,6 +11,7 @@ namespace ClassLibrary
         {
             WholePart = wholePart;
             FractionalPart = fractionalPart;
+            CurrencyCode = string.Empty;
         }
 
         public void SetValues(int wholePart, int fractionalPart)
@@ -24,7 +26,7 @@ namespace ClassLibrary
 
         public override string ToString()
         {
-            return $"{WholePart}.{FractionalPart} невстановленої валюти";
+            return $"{WholePart}.{FractionalPart} {CurrencyCode}";
         }
     }
 }
