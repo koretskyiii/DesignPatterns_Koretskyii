@@ -23,7 +23,7 @@ namespace ClassLibrary
             {
                 new ArgumentException("Сума на яку зменшується ціна, повинна бути більшою за нуль та не перевищувати поточну ціну"); // Fail First
             }
-            Price = new Money(Price.WholePart - value.WholePart, Price.FractionalPart - value.FractionalPart);
+            Price.SetValues(Price.WholePart - value.WholePart, Price.FractionalPart - value.FractionalPart); 
         }
     }
 }
