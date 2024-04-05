@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2D67B3A4-444F-4B77-9C17-2BB5BCBC5D38}|ClassLibrary\\ClassLibrary.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab1\\classlibrary\\uml.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{2D67B3A4-444F-4B77-9C17-2BB5BCBC5D38}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\uml.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20002DF9-97C4-47F2-A397-4510E3BF488E}|lab1\\lab1.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab1\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20002DF9-97C4-47F2-A397-4510E3BF488E}|lab1\\lab1.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D67B3A4-444F-4B77-9C17-2BB5BCBC5D38}|ClassLibrary\\ClassLibrary.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab1\\classlibrary\\warehouseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D67B3A4-444F-4B77-9C17-2BB5BCBC5D38}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\warehouseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2D67B3A4-444F-4B77-9C17-2BB5BCBC5D38}|ClassLibrary\\ClassLibrary.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab1\\classlibrary\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D67B3A4-444F-4B77-9C17-2BB5BCBC5D38}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,20 +31,12 @@
       "RelativeMoniker": "D:0:0:{2D67B3A4-444F-4B77-9C17-2BB5BCBC5D38}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\euro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D67B3A4-444F-4B77-9C17-2BB5BCBC5D38}|ClassLibrary\\ClassLibrary.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab1\\classlibrary\\warehouseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D67B3A4-444F-4B77-9C17-2BB5BCBC5D38}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\warehouseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2D67B3A4-444F-4B77-9C17-2BB5BCBC5D38}|ClassLibrary\\ClassLibrary.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab1\\classlibrary\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D67B3A4-444F-4B77-9C17-2BB5BCBC5D38}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D67B3A4-444F-4B77-9C17-2BB5BCBC5D38}|ClassLibrary\\ClassLibrary.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab1\\classlibrary\\reporting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D67B3A4-444F-4B77-9C17-2BB5BCBC5D38}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\reporting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20002DF9-97C4-47F2-A397-4510E3BF488E}|lab1\\lab1.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab1\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20002DF9-97C4-47F2-A397-4510E3BF488E}|lab1\\lab1.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D67B3A4-444F-4B77-9C17-2BB5BCBC5D38}|ClassLibrary\\ClassLibrary.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab1\\classlibrary\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,11 +50,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "UML.cd",
+              "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab1\\ClassLibrary\\UML.cd",
+              "RelativeDocumentMoniker": "ClassLibrary\\UML.cd",
+              "ToolTip": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab1\\ClassLibrary\\UML.cd",
+              "RelativeToolTip": "ClassLibrary\\UML.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-04-01T10:39:02.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ICurrency.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab1\\ClassLibrary\\ICurrency.cs",
               "RelativeDocumentMoniker": "ClassLibrary\\ICurrency.cs",
@@ -63,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Dollar.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab1\\ClassLibrary\\Dollar.cs",
               "RelativeDocumentMoniker": "ClassLibrary\\Dollar.cs",
@@ -76,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Euro.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab1\\ClassLibrary\\Euro.cs",
               "RelativeDocumentMoniker": "ClassLibrary\\Euro.cs",
@@ -89,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Reporting.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab1\\ClassLibrary\\Reporting.cs",
               "RelativeDocumentMoniker": "ClassLibrary\\Reporting.cs",
@@ -102,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Warehouse.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab1\\ClassLibrary\\Warehouse.cs",
               "RelativeDocumentMoniker": "ClassLibrary\\Warehouse.cs",
@@ -115,20 +131,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "WarehouseItem.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab1\\ClassLibrary\\WarehouseItem.cs",
               "RelativeDocumentMoniker": "ClassLibrary\\WarehouseItem.cs",
               "ToolTip": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab1\\ClassLibrary\\WarehouseItem.cs",
               "RelativeToolTip": "ClassLibrary\\WarehouseItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-28T19:54:01.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab1\\ClassLibrary\\Product.cs",
               "RelativeDocumentMoniker": "ClassLibrary\\Product.cs",
@@ -141,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Money.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab1\\ClassLibrary\\Money.cs",
               "RelativeDocumentMoniker": "ClassLibrary\\Money.cs",
@@ -154,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab1\\lab1\\Program.cs",
               "RelativeDocumentMoniker": "lab1\\Program.cs",
