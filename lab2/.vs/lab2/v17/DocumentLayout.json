@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A100B298-F95A-4AB0-A8C0-BD571C63E28A}|lab2\\task1.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab2\\lab2\\task1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A100B298-F95A-4AB0-A8C0-BD571C63E28A}|lab2\\task1.csproj|solutionrelative:lab2\\task1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A100B298-F95A-4AB0-A8C0-BD571C63E28A}|lab2\\task1.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab2\\lab2\\mobileapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A100B298-F95A-4AB0-A8C0-BD571C63E28A}|lab2\\task1.csproj|solutionrelative:lab2\\mobileapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A100B298-F95A-4AB0-A8C0-BD571C63E28A}|lab2\\task1.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab2\\lab2\\educationalsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A100B298-F95A-4AB0-A8C0-BD571C63E28A}|lab2\\task1.csproj|solutionrelative:lab2\\educationalsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A100B298-F95A-4AB0-A8C0-BD571C63E28A}|lab2\\task1.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab2\\lab2\\domesticsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A100B298-F95A-4AB0-A8C0-BD571C63E28A}|lab2\\task1.csproj|solutionrelative:lab2\\domesticsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{08871F38-99F6-4731-9173-208A41C89ED8}|task5\\task5.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab2\\task5\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08871F38-99F6-4731-9173-208A41C89ED8}|task5\\task5.csproj|solutionrelative:task5\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -103,34 +119,6 @@
       "RelativeMoniker": "D:0:0:{445FFEC1-DB32-4A4F-A801-E378B34DC3D2}|task2\\task2.csproj|solutionrelative:task2\\idevicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A100B298-F95A-4AB0-A8C0-BD571C63E28A}|lab2\\task1.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab2\\lab2\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A100B298-F95A-4AB0-A8C0-BD571C63E28A}|lab2\\task1.csproj|solutionrelative:lab2\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A100B298-F95A-4AB0-A8C0-BD571C63E28A}|lab2\\task1.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab2\\lab2\\subscriptionrealization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A100B298-F95A-4AB0-A8C0-BD571C63E28A}|lab2\\task1.csproj|solutionrelative:lab2\\subscriptionrealization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A100B298-F95A-4AB0-A8C0-BD571C63E28A}|lab2\\task1.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab2\\lab2\\managercall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A100B298-F95A-4AB0-A8C0-BD571C63E28A}|lab2\\task1.csproj|solutionrelative:lab2\\managercall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A100B298-F95A-4AB0-A8C0-BD571C63E28A}|lab2\\task1.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab2\\lab2\\educationalsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A100B298-F95A-4AB0-A8C0-BD571C63E28A}|lab2\\task1.csproj|solutionrelative:lab2\\educationalsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A100B298-F95A-4AB0-A8C0-BD571C63E28A}|lab2\\task1.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab2\\lab2\\domesticsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A100B298-F95A-4AB0-A8C0-BD571C63E28A}|lab2\\task1.csproj|solutionrelative:lab2\\domesticsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A100B298-F95A-4AB0-A8C0-BD571C63E28A}|lab2\\task1.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab2\\lab2\\premiumsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A100B298-F95A-4AB0-A8C0-BD571C63E28A}|lab2\\task1.csproj|solutionrelative:lab2\\premiumsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A100B298-F95A-4AB0-A8C0-BD571C63E28A}|lab2\\task1.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab2\\lab2\\mobileapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A100B298-F95A-4AB0-A8C0-BD571C63E28A}|lab2\\task1.csproj|solutionrelative:lab2\\mobileapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2CF18B3B-A02F-4B2C-B14F-4A2F0962875E}|ConsoleApp\\ConsoleApp.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab2\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CF18B3B-A02F-4B2C-B14F-4A2F0962875E}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -147,6 +135,22 @@
       "RelativeMoniker": "D:0:0:{2CF18B3B-A02F-4B2C-B14F-4A2F0962875E}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A100B298-F95A-4AB0-A8C0-BD571C63E28A}|lab2\\task1.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab2\\lab2\\subscriptionrealization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A100B298-F95A-4AB0-A8C0-BD571C63E28A}|lab2\\task1.csproj|solutionrelative:lab2\\subscriptionrealization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A100B298-F95A-4AB0-A8C0-BD571C63E28A}|lab2\\task1.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab2\\lab2\\premiumsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A100B298-F95A-4AB0-A8C0-BD571C63E28A}|lab2\\task1.csproj|solutionrelative:lab2\\premiumsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A100B298-F95A-4AB0-A8C0-BD571C63E28A}|lab2\\task1.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab2\\lab2\\managercall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A100B298-F95A-4AB0-A8C0-BD571C63E28A}|lab2\\task1.csproj|solutionrelative:lab2\\managercall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A100B298-F95A-4AB0-A8C0-BD571C63E28A}|lab2\\task1.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab2\\lab2\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A100B298-F95A-4AB0-A8C0-BD571C63E28A}|lab2\\task1.csproj|solutionrelative:lab2\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A100B298-F95A-4AB0-A8C0-BD571C63E28A}|lab2\\task1.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab2\\lab2\\website.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A100B298-F95A-4AB0-A8C0-BD571C63E28A}|lab2\\task1.csproj|solutionrelative:lab2\\website.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -158,11 +162,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 0,
+              "Title": "task1",
+              "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\lab2\\task1.csproj",
+              "RelativeDocumentMoniker": "lab2\\task1.csproj",
+              "ToolTip": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\lab2\\task1.csproj",
+              "RelativeToolTip": "lab2\\task1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-02T22:30:07.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
               "Title": "SubscriptionRealization.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\lab2\\SubscriptionRealization.cs",
               "RelativeDocumentMoniker": "lab2\\SubscriptionRealization.cs",
@@ -174,20 +190,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Director.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\task5\\Director.cs",
               "RelativeDocumentMoniker": "task5\\Director.cs",
               "ToolTip": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\task5\\Director.cs",
               "RelativeToolTip": "task5\\Director.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T14:10:34.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T14:10:34.832Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "EnemyBuilder.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\task5\\EnemyBuilder.cs",
               "RelativeDocumentMoniker": "task5\\EnemyBuilder.cs",
@@ -199,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "HeroBuilder.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\task5\\HeroBuilder.cs",
               "RelativeDocumentMoniker": "task5\\HeroBuilder.cs",
@@ -211,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "CharacterBuilder.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\task5\\CharacterBuilder.cs",
               "RelativeDocumentMoniker": "task5\\CharacterBuilder.cs",
@@ -223,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Character.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\task5\\Character.cs",
               "RelativeDocumentMoniker": "task5\\Character.cs",
@@ -235,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 30,
               "Title": "Virus.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\task4\\Virus.cs",
               "RelativeDocumentMoniker": "task4\\Virus.cs",
@@ -247,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "KiaomiSmartphone.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\task2\\Kiaomi\\Devices\\KiaomiSmartphone.cs",
               "RelativeDocumentMoniker": "task2\\Kiaomi\\Devices\\KiaomiSmartphone.cs",
@@ -259,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "IDeviceFactory.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\task2\\IDeviceFactory.cs",
               "RelativeDocumentMoniker": "task2\\IDeviceFactory.cs",
@@ -271,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 29,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\ConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
@@ -283,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
               "Title": "PremiumSubscription.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\lab2\\PremiumSubscription.cs",
               "RelativeDocumentMoniker": "lab2\\PremiumSubscription.cs",
@@ -295,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 31,
               "Title": "Authenticator.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\task3\\Authenticator.cs",
               "RelativeDocumentMoniker": "task3\\Authenticator.cs",
@@ -307,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "KiaomiFactory.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\task2\\Kiaomi\\KiaomiFactory.cs",
               "RelativeDocumentMoniker": "task2\\Kiaomi\\KiaomiFactory.cs",
@@ -319,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "KiaomiNetbook.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\task2\\Kiaomi\\Devices\\KiaomiNetbook.cs",
               "RelativeDocumentMoniker": "task2\\Kiaomi\\Devices\\KiaomiNetbook.cs",
@@ -331,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "iProneEBook.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\task2\\iProne\\Devices\\iProneEBook.cs",
               "RelativeDocumentMoniker": "task2\\iProne\\Devices\\iProneEBook.cs",
@@ -343,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "BalaxyNetbook.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\task2\\Balaxy\\Devices\\BalaxyNetbook.cs",
               "RelativeDocumentMoniker": "task2\\Balaxy\\Devices\\BalaxyNetbook.cs",
@@ -355,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "BalaxyFactory.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\task2\\Balaxy\\BalaxyFactory.cs",
               "RelativeDocumentMoniker": "task2\\Balaxy\\BalaxyFactory.cs",
@@ -367,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "KiaomiLaptop.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\task2\\Kiaomi\\Devices\\KiaomiLaptop.cs",
               "RelativeDocumentMoniker": "task2\\Kiaomi\\Devices\\KiaomiLaptop.cs",
@@ -379,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "KiaomiEBook.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\task2\\Kiaomi\\Devices\\KiaomiEBook.cs",
               "RelativeDocumentMoniker": "task2\\Kiaomi\\Devices\\KiaomiEBook.cs",
@@ -391,7 +406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "IProneFactory.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\task2\\iProne\\IProneFactory.cs",
               "RelativeDocumentMoniker": "task2\\iProne\\IProneFactory.cs",
@@ -403,7 +418,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "iProneLaptop.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\task2\\iProne\\Devices\\iProneLaptop.cs",
               "RelativeDocumentMoniker": "task2\\iProne\\Devices\\iProneLaptop.cs",
@@ -415,7 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "iProneNetbook.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\task2\\iProne\\Devices\\iProneNetbook.cs",
               "RelativeDocumentMoniker": "task2\\iProne\\Devices\\iProneNetbook.cs",
@@ -427,7 +442,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "iProneSmartphone.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\task2\\iProne\\Devices\\iProneSmartphone.cs",
               "RelativeDocumentMoniker": "task2\\iProne\\Devices\\iProneSmartphone.cs",
@@ -439,7 +454,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "ISmartphone.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\task2\\DeviceTypeInterfaces\\ISmartphone.cs",
               "RelativeDocumentMoniker": "task2\\DeviceTypeInterfaces\\ISmartphone.cs",
@@ -451,7 +466,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "INetbook.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\task2\\DeviceTypeInterfaces\\INetbook.cs",
               "RelativeDocumentMoniker": "task2\\DeviceTypeInterfaces\\INetbook.cs",
@@ -463,7 +478,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "ILaptop.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\task2\\DeviceTypeInterfaces\\ILaptop.cs",
               "RelativeDocumentMoniker": "task2\\DeviceTypeInterfaces\\ILaptop.cs",
@@ -475,7 +490,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "IEBook.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\task2\\DeviceTypeInterfaces\\IEBook.cs",
               "RelativeDocumentMoniker": "task2\\DeviceTypeInterfaces\\IEBook.cs",
@@ -487,7 +502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "BalaxySmartphone.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\task2\\Balaxy\\Devices\\BalaxySmartphone.cs",
               "RelativeDocumentMoniker": "task2\\Balaxy\\Devices\\BalaxySmartphone.cs",
@@ -499,7 +514,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "BalaxyLaptop.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\task2\\Balaxy\\Devices\\BalaxyLaptop.cs",
               "RelativeDocumentMoniker": "task2\\Balaxy\\Devices\\BalaxyLaptop.cs",
@@ -511,7 +526,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "BalaxyEBook.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\task2\\Balaxy\\Devices\\BalaxyEBook.cs",
               "RelativeDocumentMoniker": "task2\\Balaxy\\Devices\\BalaxyEBook.cs",
@@ -523,7 +538,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 2,
               "Title": "EducationalSubscription.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\lab2\\EducationalSubscription.cs",
               "RelativeDocumentMoniker": "lab2\\EducationalSubscription.cs",
@@ -535,7 +550,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 35,
               "Title": "ManagerCall.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\lab2\\ManagerCall.cs",
               "RelativeDocumentMoniker": "lab2\\ManagerCall.cs",
@@ -547,7 +562,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 1,
               "Title": "MobileApp.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\lab2\\MobileApp.cs",
               "RelativeDocumentMoniker": "lab2\\MobileApp.cs",
@@ -555,11 +570,12 @@
               "RelativeToolTip": "lab2\\MobileApp.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T17:27:14.651Z"
+              "WhenOpened": "2024-06-01T17:27:14.651Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 36,
               "Title": "Subscription.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\lab2\\Subscription.cs",
               "RelativeDocumentMoniker": "lab2\\Subscription.cs",
@@ -571,7 +587,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "WebSite.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\lab2\\WebSite.cs",
               "RelativeDocumentMoniker": "lab2\\WebSite.cs",
@@ -583,7 +599,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 3,
               "Title": "DomesticSubscription.cs",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\lab2\\DomesticSubscription.cs",
               "RelativeDocumentMoniker": "lab2\\DomesticSubscription.cs",
@@ -595,7 +611,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 32,
               "Title": "ConsoleApp.csproj",
               "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab2\\ConsoleApp\\ConsoleApp.csproj",
               "RelativeDocumentMoniker": "ConsoleApp\\ConsoleApp.csproj",

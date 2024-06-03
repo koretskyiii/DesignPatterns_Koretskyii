@@ -1,0 +1,546 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C49FE8-EEA6-4DA2-A1AE-8B9069FAACF2}|Adapter\\Adapter.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab3\\adapter\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C49FE8-EEA6-4DA2-A1AE-8B9069FAACF2}|Adapter\\Adapter.csproj|solutionrelative:adapter\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C49FE8-EEA6-4DA2-A1AE-8B9069FAACF2}|Adapter\\Adapter.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab3\\adapter\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C49FE8-EEA6-4DA2-A1AE-8B9069FAACF2}|Adapter\\Adapter.csproj|solutionrelative:adapter\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C49FE8-EEA6-4DA2-A1AE-8B9069FAACF2}|Adapter\\Adapter.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab3\\adapter\\fileloggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C49FE8-EEA6-4DA2-A1AE-8B9069FAACF2}|Adapter\\Adapter.csproj|solutionrelative:adapter\\fileloggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C675291-73B8-47B1-9936-41BDF0CCAF1C}|Bridge - task3\\Bridge - task3.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab3\\bridge - task3\\vectorrenderengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C675291-73B8-47B1-9936-41BDF0CCAF1C}|Bridge - task3\\Bridge - task3.csproj|solutionrelative:bridge - task3\\vectorrenderengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C675291-73B8-47B1-9936-41BDF0CCAF1C}|Bridge - task3\\Bridge - task3.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab3\\bridge - task3\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C675291-73B8-47B1-9936-41BDF0CCAF1C}|Bridge - task3\\Bridge - task3.csproj|solutionrelative:bridge - task3\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C675291-73B8-47B1-9936-41BDF0CCAF1C}|Bridge - task3\\Bridge - task3.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab3\\bridge - task3\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C675291-73B8-47B1-9936-41BDF0CCAF1C}|Bridge - task3\\Bridge - task3.csproj|solutionrelative:bridge - task3\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C675291-73B8-47B1-9936-41BDF0CCAF1C}|Bridge - task3\\Bridge - task3.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab3\\bridge - task3\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C675291-73B8-47B1-9936-41BDF0CCAF1C}|Bridge - task3\\Bridge - task3.csproj|solutionrelative:bridge - task3\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C675291-73B8-47B1-9936-41BDF0CCAF1C}|Bridge - task3\\Bridge - task3.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab3\\bridge - task3\\rasterrenderengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C675291-73B8-47B1-9936-41BDF0CCAF1C}|Bridge - task3\\Bridge - task3.csproj|solutionrelative:bridge - task3\\rasterrenderengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C675291-73B8-47B1-9936-41BDF0CCAF1C}|Bridge - task3\\Bridge - task3.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab3\\bridge - task3\\irenderengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C675291-73B8-47B1-9936-41BDF0CCAF1C}|Bridge - task3\\Bridge - task3.csproj|solutionrelative:bridge - task3\\irenderengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C675291-73B8-47B1-9936-41BDF0CCAF1C}|Bridge - task3\\Bridge - task3.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab3\\bridge - task3\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C675291-73B8-47B1-9936-41BDF0CCAF1C}|Bridge - task3\\Bridge - task3.csproj|solutionrelative:bridge - task3\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E463CD90-E44D-4F83-8B33-3EBC91FCB9F1}|Composite\\Composite.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab3\\composite\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E463CD90-E44D-4F83-8B33-3EBC91FCB9F1}|Composite\\Composite.csproj|solutionrelative:composite\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E463CD90-E44D-4F83-8B33-3EBC91FCB9F1}|Composite\\Composite.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab3\\composite\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E463CD90-E44D-4F83-8B33-3EBC91FCB9F1}|Composite\\Composite.csproj|solutionrelative:composite\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E463CD90-E44D-4F83-8B33-3EBC91FCB9F1}|Composite\\Composite.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab3\\composite\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E463CD90-E44D-4F83-8B33-3EBC91FCB9F1}|Composite\\Composite.csproj|solutionrelative:composite\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193FAD3B-0AF4-415B-B6A0-310A477CE3B4}|ConsoleApp\\ConsoleApp.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab3\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193FAD3B-0AF4-415B-B6A0-310A477CE3B4}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91085E1D-9482-4BF6-8FF5-8A5B0DAF9894}|ConsoleAppFlyweight\\ConsoleAppFlyweight.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab3\\consoleappflyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91085E1D-9482-4BF6-8FF5-8A5B0DAF9894}|ConsoleAppFlyweight\\ConsoleAppFlyweight.csproj|solutionrelative:consoleappflyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B14ABAB-D912-4980-8F00-90F9FACB4D36}|Bridge\\Decorator.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab3\\bridge\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B14ABAB-D912-4980-8F00-90F9FACB4D36}|Bridge\\Decorator.csproj|solutionrelative:bridge\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B14ABAB-D912-4980-8F00-90F9FACB4D36}|Bridge\\Decorator.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab3\\bridge\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B14ABAB-D912-4980-8F00-90F9FACB4D36}|Bridge\\Decorator.csproj|solutionrelative:bridge\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B14ABAB-D912-4980-8F00-90F9FACB4D36}|Bridge\\Decorator.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab3\\bridge\\paladin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B14ABAB-D912-4980-8F00-90F9FACB4D36}|Bridge\\Decorator.csproj|solutionrelative:bridge\\paladin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B14ABAB-D912-4980-8F00-90F9FACB4D36}|Bridge\\Decorator.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab3\\bridge\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B14ABAB-D912-4980-8F00-90F9FACB4D36}|Bridge\\Decorator.csproj|solutionrelative:bridge\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B14ABAB-D912-4980-8F00-90F9FACB4D36}|Bridge\\Decorator.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab3\\bridge\\artifact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B14ABAB-D912-4980-8F00-90F9FACB4D36}|Bridge\\Decorator.csproj|solutionrelative:bridge\\artifact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B14ABAB-D912-4980-8F00-90F9FACB4D36}|Bridge\\Decorator.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab3\\bridge\\inventorydecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B14ABAB-D912-4980-8F00-90F9FACB4D36}|Bridge\\Decorator.csproj|solutionrelative:bridge\\inventorydecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B14ABAB-D912-4980-8F00-90F9FACB4D36}|Bridge\\Decorator.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab3\\bridge\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B14ABAB-D912-4980-8F00-90F9FACB4D36}|Bridge\\Decorator.csproj|solutionrelative:bridge\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D719A7A-D6D9-41AE-BE7D-F2C421EC1768}|Flyweight\\Flyweight.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab3\\flyweight\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D719A7A-D6D9-41AE-BE7D-F2C421EC1768}|Flyweight\\Flyweight.csproj|solutionrelative:flyweight\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D719A7A-D6D9-41AE-BE7D-F2C421EC1768}|Flyweight\\Flyweight.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab3\\flyweight\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D719A7A-D6D9-41AE-BE7D-F2C421EC1768}|Flyweight\\Flyweight.csproj|solutionrelative:flyweight\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D719A7A-D6D9-41AE-BE7D-F2C421EC1768}|Flyweight\\Flyweight.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab3\\flyweight\\lightnodefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D719A7A-D6D9-41AE-BE7D-F2C421EC1768}|Flyweight\\Flyweight.csproj|solutionrelative:flyweight\\lightnodefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D719A7A-D6D9-41AE-BE7D-F2C421EC1768}|Flyweight\\Flyweight.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab3\\flyweight\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D719A7A-D6D9-41AE-BE7D-F2C421EC1768}|Flyweight\\Flyweight.csproj|solutionrelative:flyweight\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BBE98D-2F25-4A88-A922-44119CE8AFEF}|Proxy\\Proxy.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab3\\proxy\\smarttextreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BBE98D-2F25-4A88-A922-44119CE8AFEF}|Proxy\\Proxy.csproj|solutionrelative:proxy\\smarttextreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BBE98D-2F25-4A88-A922-44119CE8AFEF}|Proxy\\Proxy.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab3\\proxy\\textreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BBE98D-2F25-4A88-A922-44119CE8AFEF}|Proxy\\Proxy.csproj|solutionrelative:proxy\\textreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BBE98D-2F25-4A88-A922-44119CE8AFEF}|Proxy\\Proxy.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab3\\proxy\\smarttextreaderlocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BBE98D-2F25-4A88-A922-44119CE8AFEF}|Proxy\\Proxy.csproj|solutionrelative:proxy\\smarttextreaderlocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BBE98D-2F25-4A88-A922-44119CE8AFEF}|Proxy\\Proxy.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab3\\proxy\\smarttextchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BBE98D-2F25-4A88-A922-44119CE8AFEF}|Proxy\\Proxy.csproj|solutionrelative:proxy\\smarttextchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B14ABAB-D912-4980-8F00-90F9FACB4D36}|Bridge\\Decorator.csproj|d:\\usersdesktop\\study\\designpatterns_koretskyii\\lab3\\bridge\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B14ABAB-D912-4980-8F00-90F9FACB4D36}|Bridge\\Decorator.csproj|solutionrelative:bridge\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRenderEngine.cs",
+              "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Bridge - task3\\IRenderEngine.cs",
+              "RelativeDocumentMoniker": "Bridge - task3\\IRenderEngine.cs",
+              "ToolTip": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Bridge - task3\\IRenderEngine.cs",
+              "RelativeToolTip": "Bridge - task3\\IRenderEngine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T00:30:03.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RasterRenderEngine.cs",
+              "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Bridge - task3\\RasterRenderEngine.cs",
+              "RelativeDocumentMoniker": "Bridge - task3\\RasterRenderEngine.cs",
+              "ToolTip": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Bridge - task3\\RasterRenderEngine.cs",
+              "RelativeToolTip": "Bridge - task3\\RasterRenderEngine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T00:30:48.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Bridge - task3\\Shape.cs",
+              "RelativeDocumentMoniker": "Bridge - task3\\Shape.cs",
+              "ToolTip": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Bridge - task3\\Shape.cs",
+              "RelativeToolTip": "Bridge - task3\\Shape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T00:28:01.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Square.cs",
+              "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Bridge - task3\\Square.cs",
+              "RelativeDocumentMoniker": "Bridge - task3\\Square.cs",
+              "ToolTip": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Bridge - task3\\Square.cs",
+              "RelativeToolTip": "Bridge - task3\\Square.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T00:29:22.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VectorRenderEngine.cs",
+              "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Bridge - task3\\VectorRenderEngine.cs",
+              "RelativeDocumentMoniker": "Bridge - task3\\VectorRenderEngine.cs",
+              "ToolTip": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Bridge - task3\\VectorRenderEngine.cs",
+              "RelativeToolTip": "Bridge - task3\\VectorRenderEngine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T00:30:24.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Bridge - task3\\Triangle.cs",
+              "RelativeDocumentMoniker": "Bridge - task3\\Triangle.cs",
+              "ToolTip": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Bridge - task3\\Triangle.cs",
+              "RelativeToolTip": "Bridge - task3\\Triangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T00:29:43.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileLoggerAdapter.cs",
+              "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Adapter\\FileLoggerAdapter.cs",
+              "RelativeDocumentMoniker": "Adapter\\FileLoggerAdapter.cs",
+              "ToolTip": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Adapter\\FileLoggerAdapter.cs",
+              "RelativeToolTip": "Adapter\\FileLoggerAdapter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T23:29:24.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileWriter.cs",
+              "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Adapter\\FileWriter.cs",
+              "RelativeDocumentMoniker": "Adapter\\FileWriter.cs",
+              "ToolTip": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Adapter\\FileWriter.cs",
+              "RelativeToolTip": "Adapter\\FileWriter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T23:29:33.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Adapter\\Logger.cs",
+              "RelativeDocumentMoniker": "Adapter\\Logger.cs",
+              "ToolTip": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Adapter\\Logger.cs",
+              "RelativeToolTip": "Adapter\\Logger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T23:29:37.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Bridge - task3\\Circle.cs",
+              "RelativeDocumentMoniker": "Bridge - task3\\Circle.cs",
+              "ToolTip": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Bridge - task3\\Circle.cs",
+              "RelativeToolTip": "Bridge - task3\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T00:28:54.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LightTextNode.cs",
+              "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Composite\\LightTextNode.cs",
+              "RelativeDocumentMoniker": "Composite\\LightTextNode.cs",
+              "ToolTip": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Composite\\LightTextNode.cs",
+              "RelativeToolTip": "Composite\\LightTextNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:13:35.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LightNode.cs",
+              "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Composite\\LightNode.cs",
+              "RelativeDocumentMoniker": "Composite\\LightNode.cs",
+              "ToolTip": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Composite\\LightNode.cs",
+              "RelativeToolTip": "Composite\\LightNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:10:29.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LightElementNode.cs",
+              "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Composite\\LightElementNode.cs",
+              "RelativeDocumentMoniker": "Composite\\LightElementNode.cs",
+              "ToolTip": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Composite\\LightElementNode.cs",
+              "RelativeToolTip": "Composite\\LightElementNode.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:14:13.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
+              "ToolTip": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ConsoleApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T23:26:34.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\ConsoleAppFlyweight\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppFlyweight\\Program.cs",
+              "ToolTip": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\ConsoleAppFlyweight\\Program.cs",
+              "RelativeToolTip": "ConsoleAppFlyweight\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:47:31.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LightNodeFactory.cs",
+              "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Flyweight\\LightNodeFactory.cs",
+              "RelativeDocumentMoniker": "Flyweight\\LightNodeFactory.cs",
+              "ToolTip": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Flyweight\\LightNodeFactory.cs",
+              "RelativeToolTip": "Flyweight\\LightNodeFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:45:38.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LightNode.cs",
+              "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Flyweight\\LightNode.cs",
+              "RelativeDocumentMoniker": "Flyweight\\LightNode.cs",
+              "ToolTip": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Flyweight\\LightNode.cs",
+              "RelativeToolTip": "Flyweight\\LightNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:40:34.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LightTextNode.cs",
+              "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Flyweight\\LightTextNode.cs",
+              "RelativeDocumentMoniker": "Flyweight\\LightTextNode.cs",
+              "ToolTip": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Flyweight\\LightTextNode.cs",
+              "RelativeToolTip": "Flyweight\\LightTextNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:45:01.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LightElementNode.cs",
+              "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Flyweight\\LightElementNode.cs",
+              "RelativeDocumentMoniker": "Flyweight\\LightElementNode.cs",
+              "ToolTip": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Flyweight\\LightElementNode.cs",
+              "RelativeToolTip": "Flyweight\\LightElementNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:45:19.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SmartTextReaderLocker.cs",
+              "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Proxy\\SmartTextReaderLocker.cs",
+              "RelativeDocumentMoniker": "Proxy\\SmartTextReaderLocker.cs",
+              "ToolTip": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Proxy\\SmartTextReaderLocker.cs",
+              "RelativeToolTip": "Proxy\\SmartTextReaderLocker.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T00:35:45.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SmartTextChecker.cs",
+              "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Proxy\\SmartTextChecker.cs",
+              "RelativeDocumentMoniker": "Proxy\\SmartTextChecker.cs",
+              "ToolTip": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Proxy\\SmartTextChecker.cs",
+              "RelativeToolTip": "Proxy\\SmartTextChecker.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T00:34:51.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SmartTextReader.cs",
+              "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Proxy\\SmartTextReader.cs",
+              "RelativeDocumentMoniker": "Proxy\\SmartTextReader.cs",
+              "ToolTip": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Proxy\\SmartTextReader.cs",
+              "RelativeToolTip": "Proxy\\SmartTextReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T00:34:34.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TextReader.cs",
+              "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Proxy\\TextReader.cs",
+              "RelativeDocumentMoniker": "Proxy\\TextReader.cs",
+              "ToolTip": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Proxy\\TextReader.cs",
+              "RelativeToolTip": "Proxy\\TextReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T00:34:05.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Artifact.cs",
+              "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Bridge\\Artifact.cs",
+              "RelativeDocumentMoniker": "Bridge\\Artifact.cs",
+              "ToolTip": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Bridge\\Artifact.cs",
+              "RelativeToolTip": "Bridge\\Artifact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T00:06:50.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Sword.cs",
+              "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Bridge\\Sword.cs",
+              "RelativeDocumentMoniker": "Bridge\\Sword.cs",
+              "ToolTip": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Bridge\\Sword.cs",
+              "RelativeToolTip": "Bridge\\Sword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T00:06:23.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Armor.cs",
+              "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Bridge\\Armor.cs",
+              "RelativeDocumentMoniker": "Bridge\\Armor.cs",
+              "ToolTip": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Bridge\\Armor.cs",
+              "RelativeToolTip": "Bridge\\Armor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T00:06:02.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "InventoryDecorator.cs",
+              "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Bridge\\InventoryDecorator.cs",
+              "RelativeDocumentMoniker": "Bridge\\InventoryDecorator.cs",
+              "ToolTip": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Bridge\\InventoryDecorator.cs",
+              "RelativeToolTip": "Bridge\\InventoryDecorator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T00:05:34.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Paladin.cs",
+              "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Bridge\\Paladin.cs",
+              "RelativeDocumentMoniker": "Bridge\\Paladin.cs",
+              "ToolTip": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Bridge\\Paladin.cs",
+              "RelativeToolTip": "Bridge\\Paladin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T00:05:12.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Mage.cs",
+              "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Bridge\\Mage.cs",
+              "RelativeDocumentMoniker": "Bridge\\Mage.cs",
+              "ToolTip": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Bridge\\Mage.cs",
+              "RelativeToolTip": "Bridge\\Mage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T00:04:50.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Bridge\\Warrior.cs",
+              "RelativeDocumentMoniker": "Bridge\\Warrior.cs",
+              "ToolTip": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Bridge\\Warrior.cs",
+              "RelativeToolTip": "Bridge\\Warrior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T00:04:25.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Bridge\\Hero.cs",
+              "RelativeDocumentMoniker": "Bridge\\Hero.cs",
+              "ToolTip": "D:\\UsersDesktop\\Study\\DesignPatterns_Koretskyii\\lab3\\Bridge\\Hero.cs",
+              "RelativeToolTip": "Bridge\\Hero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T00:01:42.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
